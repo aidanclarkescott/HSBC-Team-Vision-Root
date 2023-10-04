@@ -3,6 +3,8 @@ disclaimer: this was created as a project for a ubc course (CPSC319), not for th
 
 An HSBC-specified virtual office meeting platform created with React and built as a serverless application using AWS Lambda and DynamoDB, that was managed and deployed using AWS SAM and CloudFormation.
 
+[User Guide](https://drive.google.com/file/d/1GZ_drhTiLNzTUNII5x6GLjRA-G3bU4BA/view?usp=drive_link)
+
 ### Contributors
 - [Aidan Clarke Scott](https://github.com/aidanclarkescott)
 - [Chris Cliff](https://github.com/cliff42)
